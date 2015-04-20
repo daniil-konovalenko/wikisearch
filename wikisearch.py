@@ -55,7 +55,7 @@ html_out = """
     <meta charset="UTF-8">
 </head>
 <body>
-<h3>Страницы с наибольшим числом таблиц</h3>
+<h3>Max mnumber of tables</h3>
 %s
 </body>
 </html>
