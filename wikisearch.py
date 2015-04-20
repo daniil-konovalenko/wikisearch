@@ -45,7 +45,7 @@ for page in gen:
 URL_start = u'https://ht.wikipedia.org/wiki/'
 
 result_pages_sorted = sorted(result_pages.items(),
-                             key=operator.itemgetter(1))
+                             key=operator.itemgetter(1), reverse=True)
 
 html_out = """
 <!DOCTYPE html>
