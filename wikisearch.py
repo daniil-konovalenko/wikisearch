@@ -1,7 +1,9 @@
+
 import re
-import pywikibot
-from pywikibot import pagegenerators
+import core.pywikibot
+from core.pywikibot import pagegenerators
 import operator
+
 
 # Tables in the wikitext are presented in the following way:
 # {|

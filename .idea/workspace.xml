@@ -2,361 +2,161 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a34d5e5-ea29-47e6-b9ba-5d4907258c2a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apicache/38401e98e5d515f5a96ef4de95c4f2f0a1931475d73bb790ad41dc2162278760" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apicache/7231124503c3bded61a72f42f353fbf41a85bebff9692548a2b0d24fbfb13e81" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apicache/776a7e06f944dc947957e658dccdbec79ca0dad8b9dbeb2d492368ab9b5bf3f1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apicache/a4dd8ebe4fe57905d4ccec2850bdc83ab9ca17e0a8b9a30fe3daa7f84c948229" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apicache/f2f6b5c6b625c690bc1d56074c5a4e52d97992724f30000f648759aee2c257a1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/core.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/throttle.ctrl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-config.py" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\.gitattributes" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\.gitmodules" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\.gitreview" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\.svnprops" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\CREDITS" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\ChangeLog" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\README.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\ez_setup.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\generate_family_file.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\generate_user_files.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pwb.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\.gitattributes" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\.gitmodules" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\.gitreview" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\.svnprops" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\CREDITS" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\ChangeLog" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\README-conversion.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\README.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\externals\README" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\externals\__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\externals\httplib2" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\ez_setup.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\generate_family_file.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\generate_user_files.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pwb.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pywikibot\__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pywikibot\backports.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pywikibot\bot.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pywikibot\botirc.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pywikibot\comms\__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pywikibot\comms\http.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pywikibot\comms\rcstream.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pywikibot\comms\threadedhttp.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pywikibot\compat\__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pywikibot\compat\catlib.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pywikibot\compat\query.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pywikibot\compat\userlib.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pywikibot\config2.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pywikibot\data\__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pywikibot\data\api.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pywikibot\data\wikidataquery.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pywikibot\data\wikistats.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pywikibot\date.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pywikibot\diff.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pywikibot\echo.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pywikibot\editor.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pywikibot\epydoc.cfg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pywikibot\exceptions.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pywikibot\families\__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pywikibot\families\anarchopedia_family.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pywikibot\families\battlestarwiki_family.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pywikibot\families\commons_family.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pywikibot\families\i18n_family.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pywikibot\families\incubator_family.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pywikibot\families\lyricwiki_family.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pywikibot\families\mediawiki_family.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pywikibot\families\meta_family.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pywikibot\families\omegawiki_family.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pywikibot\families\osm_family.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pywikibot\families\outreach_family.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pywikibot\families\species_family.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pywikibot\families\strategy_family.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pywikibot\families\test_family.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pywikibot\families\vikidia_family.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pywikibot\families\wikia_family.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pywikibot\families\wikibooks_family.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pywikibot\families\wikidata_family.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pywikibot\families\wikimedia_family.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pywikibot\families\wikinews_family.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pywikibot\families\wikipedia_family.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pywikibot\families\wikiquote_family.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pywikibot\families\wikisource_family.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pywikibot\families\wikitech_family.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pywikibot\families\wikiversity_family.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pywikibot\families\wikivoyage_family.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pywikibot\families\wiktionary_family.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pywikibot\families\wowwiki_family.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pywikibot\family.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pywikibot\fixes.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pywikibot\i18n.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pywikibot\interwiki_graph.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pywikibot\logentries.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pywikibot\login.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pywikibot\page.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pywikibot\pagegenerators.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pywikibot\plural.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pywikibot\site.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pywikibot\textlib.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pywikibot\throttle.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pywikibot\titletranslate.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pywikibot\tools\__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pywikibot\tools\ip.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pywikibot\userinterfaces\__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pywikibot\userinterfaces\cgi_interface.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pywikibot\userinterfaces\gui.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pywikibot\userinterfaces\terminal_interface.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pywikibot\userinterfaces\terminal_interface_base.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pywikibot\userinterfaces\terminal_interface_unix.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pywikibot\userinterfaces\terminal_interface_win32.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pywikibot\userinterfaces\transliteration.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pywikibot\userinterfaces\win32_unicode.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pywikibot\version.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pywikibot\weblib.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\pywikibot\xmlreader.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\requirements.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\scripts\__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\scripts\add_text.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\scripts\archivebot.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\scripts\basic.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\scripts\blockpageschecker.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\scripts\blockreview.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\scripts\capitalize_redirects.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\scripts\casechecker.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\scripts\catall.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\scripts\category.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\scripts\category_redirect.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\scripts\cfd.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\scripts\checkimages.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\scripts\claimit.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\scripts\clean_sandbox.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\scripts\commons_link.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\scripts\commonscat.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\scripts\coordinate_import.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\scripts\cosmetic_changes.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\scripts\create_categories.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\scripts\data_ingestion.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\scripts\delete.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\scripts\disambredir.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\scripts\editarticle.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\scripts\featured.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\scripts\fixing_redirects.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\scripts\flickrripper.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\scripts\freebasemappingupload.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\scripts\harvest_template.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\scripts\i18n" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\scripts\illustrate_wikidata.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\scripts\image.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\scripts\imagerecat.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\scripts\imagetransfer.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\scripts\imageuncat.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\scripts\interwiki.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\scripts\isbn.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\scripts\listpages.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\scripts\login.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\scripts\lonelypages.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\scripts\maintenance\README" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\scripts\maintenance\__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\scripts\maintenance\cache.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\scripts\maintenance\compat2core.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\scripts\maintenance\make_i18n_dict.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\scripts\maintenance\wikimedia_sites.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\scripts\makecat.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\scripts\match_images.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\scripts\misspelling.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\scripts\movepages.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\scripts\newitem.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\scripts\noreferences.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\scripts\nowcommons.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\scripts\pagefromfile.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\scripts\patrol.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\scripts\piper.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\scripts\protect.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\scripts\redirect.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\scripts\reflinks.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\scripts\replace.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\scripts\replicate_wiki.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\scripts\revertbot.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\scripts\script_wui.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\scripts\selflink.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\scripts\shell.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\scripts\solve_disambiguation.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\scripts\spamremove.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\scripts\states_redirect.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\scripts\template.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\scripts\templatecount.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\scripts\touch.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\scripts\transferbot.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\scripts\unlink.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\scripts\unusedfiles.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\scripts\upload.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\scripts\version.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\scripts\watchlist.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\scripts\weblinkchecker.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\scripts\welcome.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\setup.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\tests\README.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\tests\__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\tests\api_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\tests\archivebot_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\tests\aspects.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\tests\cache_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\tests\category_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\tests\checkimages_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\tests\data\csv_ingestion.csv" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\tests\data\images\1rightarrow.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\tests\data\images\MP_sounds.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\tests\data\pagelist-brackets.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\tests\data\pagelist-lines.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\tests\data\xml\article-pear-0.10.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\tests\data\xml\article-pear.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\tests\data\xml\article-pyrus-utf16.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\tests\data\xml\article-pyrus-utf16.xml.bz2" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\tests\data\xml\article-pyrus.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\tests\data\xml\article-pyrus.xml.bz2" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\tests\data\xml\dummy-reflinks.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\tests\data\xml\pair-0.10.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\tests\data_ingestion_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\tests\date_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\tests\deletionbot_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\tests\deprecation_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\tests\dry_api_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\tests\dry_site_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\tests\edit_failure_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\tests\exceptions_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\tests\family_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\tests\file_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\tests\http_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\tests\i18n\__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\tests\i18n\pywikibot.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\tests\i18n\test.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\tests\i18n_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\tests\interwiki_link_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\tests\ipregex_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\tests\isbn_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\tests\l10n_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\tests\link_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\tests\mediawikiversion_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\tests\namespace_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\tests\page_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\tests\pagegenerators_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\tests\pages\Q60.wd" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\tests\pages\Q60_only_sitelinks.wd" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\tests\pages\enwiki_help_editing.meta" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\tests\pages\enwiki_help_editing.page" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\tests\protectbot_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\tests\pwb\__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\tests\pwb\print_locals.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\tests\pwb_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\tests\reflinks_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\tests\script_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\tests\site_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\tests\tests_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\tests\textlib_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\tests\thread_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\tests\timestamp_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\tests\timestripper_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\tests\tk_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\tests\ui_tests.bat" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\tests\ui_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\tests\upload_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\tests\uploadbot_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\tests\utils.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\tests\weblib_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\tests\wikibase_edit_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\tests\wikibase_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\tests\wikidataquery_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\tests\wikistats_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\tests\xmlreader_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\tox.ini" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot\user-config.py.sample" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\requirements.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\setup.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\tests\README.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\tests\__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\tests\api_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\tests\archivebot_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\tests\aspects.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\tests\cache_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\tests\category_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\tests\checkimages_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\tests\data\csv_ingestion.csv" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\tests\data\images\1rightarrow.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\tests\data\images\MP_sounds.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\tests\data\pagelist-brackets.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\tests\data\pagelist-lines.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\tests\data\xml\article-pear-0.10.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\tests\data\xml\article-pear.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\tests\data\xml\article-pyrus-utf16.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\tests\data\xml\article-pyrus-utf16.xml.bz2" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\tests\data\xml\article-pyrus.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\tests\data\xml\article-pyrus.xml.bz2" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\tests\data\xml\dummy-reflinks.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\tests\data\xml\pair-0.10.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\tests\data_ingestion_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\tests\date_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\tests\deletionbot_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\tests\deprecation_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\tests\dry_api_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\tests\dry_site_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\tests\edit_failure_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\tests\exceptions_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\tests\family_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\tests\file_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\tests\http_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\tests\i18n\__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\tests\i18n\pywikibot.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\tests\i18n\test.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\tests\i18n_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\tests\interwiki_link_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\tests\ipregex_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\tests\isbn_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\tests\l10n_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\tests\link_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\tests\mediawikiversion_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\tests\namespace_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\tests\page_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\tests\pagegenerators_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\tests\pages\Q60.wd" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\tests\pages\Q60_only_sitelinks.wd" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\tests\pages\enwiki_help_editing.meta" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\tests\pages\enwiki_help_editing.page" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\tests\protectbot_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\tests\pwb\__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\tests\pwb\print_locals.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\tests\pwb_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\tests\reflinks_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\tests\script_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\tests\site_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\tests\tests_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\tests\textlib_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\tests\thread_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\tests\timestamp_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\tests\timestripper_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\tests\tk_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\tests\ui_tests.bat" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\tests\ui_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\tests\upload_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\tests\uploadbot_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\tests\utils.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\tests\weblib_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\tests\wikibase_edit_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\tests\wikibase_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\tests\wikidataquery_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\tests\wikistats_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\tests\xmlreader_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\tox.ini" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pywikibot" afterPath="$PROJECT_DIR$/pywikibot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output.html" afterPath="$PROJECT_DIR$/output.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitmodules" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/__init__.py" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\core\user-config.py.sample" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\README" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\CHANGELOG" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\MANIFEST.in" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\Makefile" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\doc\Makefile" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\doc\conf.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\doc\html\_sources\index.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\doc\html\_sources\libhttplib2.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\doc\html\_static\basic.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\doc\html\_static\contents.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\doc\html\_static\default.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\doc\html\_static\doctools.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\doc\html\_static\file.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\doc\html\_static\interface.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\doc\html\_static\jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\doc\html\_static\minus.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\doc\html\_static\navigation.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\doc\html\_static\plus.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\doc\html\_static\pygments.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\doc\html\_static\rightsidebar.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\doc\html\_static\searchtools.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\doc\html\_static\sphinxdoc.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\doc\html\_static\stickysidebar.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\doc\html\_static\traditional.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\doc\html\genindex.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\doc\html\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\doc\html\libhttplib2.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\doc\html\modindex.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\doc\html\objects.inv" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\doc\html\search.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\doc\html\searchindex.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\doc\html\searchindex.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\doc\index.rst" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\doc\libhttplib2.rst" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\libhttplib2.tex" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\python2\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\python2\httplib2\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\python2\httplib2\cacerts.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\python2\httplib2\iri2uri.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\python2\httplib2\socks.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\python2\httplib2\test\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\python2\httplib2\test\brokensocket\socket.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\python2\httplib2\test\functional\test_proxies.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\python2\httplib2\test\miniserver.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\python2\httplib2\test\other_cacerts.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\python2\httplib2\test\smoke_test.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\python2\httplib2\test\test_no_socket.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\python2\httplib2test.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\python2\httplib2test_appengine.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\python3\README" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\python3\httplib2\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\python3\httplib2\cacerts.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\python3\httplib2\iri2uri.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\python3\httplib2\test\other_cacerts.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\python3\httplib2test.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\ref.tex" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\ref\about.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\ref\blank.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\ref\cache-objects.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\ref\contents.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\ref\contents.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\ref\http-objects.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\ref\httplib2-example.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\ref\images.idx" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\ref\img1.old" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\ref\img1.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\ref\img2.old" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\ref\img2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\ref\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\ref\index.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\ref\modimages.idx" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\ref\module-httplib2.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\ref\modules.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\ref\next.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\ref\node2.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\ref\previous.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\ref\pyfav.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\ref\ref.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\ref\ref.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\ref\response-objects.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\ref\up.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\setup.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\300\final-destination.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\300\with-location-header.asis" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\300\without-location-header.asis" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\301\final-destination.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\301\onestep.asis" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\302\.myhtaccess" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\302\final-destination.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\302\no-location.asis" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\302\onestep.asis" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\302\twostep.asis" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\303\303.cgi" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\303\final-destination.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\303\redirect-to-header-reflector.cgi" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\303\redirect-to-reflector.cgi" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\304\end2end.cgi" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\304\last-modified-only\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\304\last-modified-only\last-modified-only.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\304\test_etag.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\307\final-destination.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\307\onestep.asis" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\410\410.asis" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\basic-nested\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\basic-nested\file.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\basic-nested\passwdfile" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\basic-nested\subdir\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\basic-nested\subdir\file.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\basic-nested\subdir\passwdfile" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\basic2\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\basic2\file.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\basic2\passwdfile" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\basic\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\basic\file.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\basic\passwdfile" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\conditional-updates\test.cgi" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\deflate\deflated-content" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\deflate\deflated-headers.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\deflate\deflated.asis" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\deflate\failed-compression.asis" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\digest-expire\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\digest-expire\digestpw" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\digest-expire\file.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\digest\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\digest\digestpw" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\digest\file.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\duplicate-headers\multilink.asis" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\gzip\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\gzip\failed-compression.asis" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\gzip\final-destination.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\gzip\post.cgi" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\methods\method_reflector.cgi" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\no-store\no-store.asis" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\reflector\reflector.cgi" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\test.asis" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\timeout\timeout.cgi" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\user-agent\test.cgi" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\vary\accept-double.asis" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\vary\accept.asis" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\vary\no-vary.asis" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\vary\unused-header.asis" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/throttle.ctrl" afterPath="$PROJECT_DIR$/throttle.ctrl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wikisearch.py" afterPath="$PROJECT_DIR$/wikisearch.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -385,11 +185,29 @@
       <file leaf-file-name="wikisearch.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wikisearch.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.7465754" vertical-offset="0" max-vertical-offset="1224">
-              <caret line="60" column="49" selection-start-line="60" selection-start-column="49" selection-end-line="60" selection-end-column="49" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.16612378" vertical-offset="0" max-vertical-offset="1258">
+              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/pywikibot/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="442" max-vertical-offset="12784">
+              <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -402,6 +220,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/core/pywikibot/__init__.py" />
         <option value="$PROJECT_DIR$/wikisearch.py" />
       </list>
     </option>
@@ -435,7 +254,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -454,14 +272,29 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="recentsLimit" value="5" />
     <property name="FullScreen" value="false" />
-    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="options.lastSelected" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
   </component>
@@ -636,16 +469,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30718955" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.45261437" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.45261437" sideWeight="0.68675596" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.45261437" sideWeight="0.68675596" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -684,21 +517,41 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/wikisearch.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1241">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1224">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wikisearch.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.7465754" vertical-offset="0" max-vertical-offset="1224">
-          <caret line="60" column="49" selection-start-line="60" selection-start-column="49" selection-end-line="60" selection-end-column="49" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1241">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="307">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/pywikibot/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="442" max-vertical-offset="12784">
+          <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wikisearch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.16612378" vertical-offset="0" max-vertical-offset="1258">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
