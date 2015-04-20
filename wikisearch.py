@@ -27,7 +27,6 @@ def ordered_list_links(inp_list):
 
 # Generators for pages
 gen = pagegenerators.AllpagesPageGenerator(content=True)
-prgen = pagegenerators.PreloadingGenerator(gen, step=500)
 
 result_pages = dict()
 
@@ -39,7 +38,7 @@ for page in gen:
     if number_of_tables != 0:
         result_pages[title] = number_of_tables
 
-    print(j, 'from 56839 articles retrieved')
+    print(j, 'from 56840 articles retrieved')
     j += 1
 
 URL_start = u'https://ht.wikipedia.org/wiki/'
@@ -55,7 +54,7 @@ html_out = """
     <meta charset="UTF-8">
 </head>
 <body>
-<h3>Max mnumber of tables</h3>
+<h3>Max number of tables</h3>
 %s
 </body>
 </html>
