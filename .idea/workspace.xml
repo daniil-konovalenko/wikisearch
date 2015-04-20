@@ -1,165 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a34d5e5-ea29-47e6-b9ba-5d4907258c2a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitmodules" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/__init__.py" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\core\user-config.py.sample" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\README" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\CHANGELOG" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\MANIFEST.in" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\Makefile" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\doc\Makefile" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\doc\conf.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\doc\html\_sources\index.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\doc\html\_sources\libhttplib2.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\doc\html\_static\basic.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\doc\html\_static\contents.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\doc\html\_static\default.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\doc\html\_static\doctools.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\doc\html\_static\file.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\doc\html\_static\interface.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\doc\html\_static\jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\doc\html\_static\minus.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\doc\html\_static\navigation.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\doc\html\_static\plus.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\doc\html\_static\pygments.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\doc\html\_static\rightsidebar.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\doc\html\_static\searchtools.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\doc\html\_static\sphinxdoc.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\doc\html\_static\stickysidebar.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\doc\html\_static\traditional.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\doc\html\genindex.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\doc\html\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\doc\html\libhttplib2.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\doc\html\modindex.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\doc\html\objects.inv" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\doc\html\search.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\doc\html\searchindex.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\doc\html\searchindex.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\doc\index.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\doc\libhttplib2.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\libhttplib2.tex" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\python2\__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\python2\httplib2\__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\python2\httplib2\cacerts.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\python2\httplib2\iri2uri.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\python2\httplib2\socks.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\python2\httplib2\test\__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\python2\httplib2\test\brokensocket\socket.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\python2\httplib2\test\functional\test_proxies.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\python2\httplib2\test\miniserver.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\python2\httplib2\test\other_cacerts.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\python2\httplib2\test\smoke_test.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\python2\httplib2\test\test_no_socket.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\python2\httplib2test.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\python2\httplib2test_appengine.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\python3\README" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\python3\httplib2\__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\python3\httplib2\cacerts.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\python3\httplib2\iri2uri.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\python3\httplib2\test\other_cacerts.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\python3\httplib2test.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\ref.tex" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\ref\about.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\ref\blank.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\ref\cache-objects.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\ref\contents.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\ref\contents.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\ref\http-objects.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\ref\httplib2-example.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\ref\images.idx" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\ref\img1.old" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\ref\img1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\ref\img2.old" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\ref\img2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\ref\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\ref\index.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\ref\modimages.idx" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\ref\module-httplib2.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\ref\modules.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\ref\next.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\ref\node2.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\ref\previous.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\ref\pyfav.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\ref\ref.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\ref\ref.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\ref\response-objects.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\ref\up.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\setup.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\300\final-destination.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\300\with-location-header.asis" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\300\without-location-header.asis" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\301\final-destination.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\301\onestep.asis" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\302\.myhtaccess" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\302\final-destination.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\302\no-location.asis" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\302\onestep.asis" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\302\twostep.asis" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\303\303.cgi" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\303\final-destination.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\303\redirect-to-header-reflector.cgi" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\303\redirect-to-reflector.cgi" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\304\end2end.cgi" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\304\last-modified-only\.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\304\last-modified-only\last-modified-only.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\304\test_etag.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\307\final-destination.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\307\onestep.asis" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\410\410.asis" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\basic-nested\.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\basic-nested\file.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\basic-nested\passwdfile" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\basic-nested\subdir\.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\basic-nested\subdir\file.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\basic-nested\subdir\passwdfile" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\basic2\.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\basic2\file.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\basic2\passwdfile" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\basic\.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\basic\file.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\basic\passwdfile" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\conditional-updates\test.cgi" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\deflate\deflated-content" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\deflate\deflated-headers.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\deflate\deflated.asis" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\deflate\failed-compression.asis" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\digest-expire\.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\digest-expire\digestpw" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\digest-expire\file.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\digest\.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\digest\digestpw" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\digest\file.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\duplicate-headers\multilink.asis" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\gzip\.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\gzip\failed-compression.asis" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\gzip\final-destination.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\gzip\post.cgi" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\methods\method_reflector.cgi" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\no-store\no-store.asis" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\reflector\reflector.cgi" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\test.asis" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\timeout\timeout.cgi" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\user-agent\test.cgi" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\vary\accept-double.asis" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\vary\accept.asis" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\vary\no-vary.asis" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\externals\httplib2\test\vary\unused-header.asis" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helium\Documents\Информатика\Python\wikisearch\core\pywikibot" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/throttle.ctrl" afterPath="$PROJECT_DIR$/throttle.ctrl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wikisearch.py" afterPath="$PROJECT_DIR$/wikisearch.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="8a34d5e5-ea29-47e6-b9ba-5d4907258c2a" name="Default" comment="" />
     <ignored path="core.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -185,8 +27,8 @@
       <file leaf-file-name="wikisearch.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wikisearch.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.16612378" vertical-offset="0" max-vertical-offset="1258">
-              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <state vertical-scroll-proportion="-0.16286644" vertical-offset="84" max-vertical-offset="1258">
+              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -469,7 +311,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -478,7 +320,7 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.45261437" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.45261437" sideWeight="0.68675596" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.45261437" sideWeight="0.68675596" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -549,8 +391,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wikisearch.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.16612378" vertical-offset="0" max-vertical-offset="1258">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        <state vertical-scroll-proportion="-0.16286644" vertical-offset="84" max-vertical-offset="1258">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
           <folding />
         </state>
       </provider>
