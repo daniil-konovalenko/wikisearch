@@ -1,8 +1,5 @@
-# wikisearch
+This script searches the pages in the haitan creole Wikipedia which have the biggest number of tables.
 
-uses: urllib
+To run this script, run the wikisearch.py file.
 
-Алгоритм:
-1. Получить вики-текст всех статей википедии
-2. Сохранить в файл(ы)
-3. Просмотреть все файлы на наличие текста "<table class='wikitable'>"
+The result will be in the output.html file.
