@@ -1,9 +1,9 @@
-
 import re
-import core.pywikibot
 from core.pywikibot import pagegenerators
 import operator
 
+result_pages = dict()
+URL_start = u'https://ht.wikipedia.org/wiki/'
 
 # Tables in the wikitext are presented in the following way:
 # {|
@@ -27,11 +27,8 @@ def ordered_list_links(inp_list):
     return result
 
 
-# Generators for pages
+# Generator for pages
 gen = pagegenerators.AllpagesPageGenerator(content=True)
-
-result_pages = dict()
-
 j = 0
 for page in gen:
     text = page.text
@@ -43,7 +40,6 @@ for page in gen:
     print(j, 'from 56840 articles retrieved')
     j += 1
 
-URL_start = u'https://ht.wikipedia.org/wiki/'
 
 result_pages_sorted = sorted(result_pages.items(),
                              key=operator.itemgetter(1), reverse=True)
