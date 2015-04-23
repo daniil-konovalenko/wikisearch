@@ -1,4 +1,4 @@
-init = open("core/__init__.py")
+init = open('core/__init__.py', 'w')
 init.close()
 
 import re
