@@ -1,6 +1,11 @@
 import re
-from core.pywikibot import pagegenerators
 import operator
+import os
+import sys
+sys.path.append(os.getcwd() + '\\core')
+sys.path.append(os.getcwd() + '\\core\\externals\\httplib2')
+from core.externals import httplib2
+from core.pywikibot import pagegenerators
 
 result_pages = dict()
 URL_start = u'https://ht.wikipedia.org/wiki/'
@@ -21,14 +26,16 @@ def tables_search(string):
 def ordered_list_links(inp_list):
     result = '<ol>\n'
     for elem in inp_list:
-        result = result + '<li><a href="%s">%s -- %s</a></li>\n' % \
-                          (URL_start + elem[0], elem[0], elem[1])
+        result = result + '<li><a href="%s">%s -- %s</a></li>\n' % (URL_start+
+                                                                    elem[0],
+                                                                    elem[0],
+                                                                    elem[1])
     result = result + '</ol>'
     return result
 
 
 # Generator for pages
-gen = pagegenerators.AllpagesPageGenerator(content=True)
+gen = pagegenerators.AllpagesPageGenerator(content=True, step=5000)
 j = 0
 for page in gen:
     text = page.text
