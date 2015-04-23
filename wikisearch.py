@@ -1,3 +1,6 @@
+init = open("core/__init__.py")
+init.close()
+
 import re
 import operator
 import os
